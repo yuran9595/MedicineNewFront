@@ -20,7 +20,7 @@ export default function HeroComponent() {
 
           <Carousel.Item style={{backgroundImage:`url(${slide2})`}}>
             <div className="container">
-              <h2>Lorem Ipsum Dolor</h2>
+              <h2>Test change</h2>
               <p>Ut velit est quam dolor ad a aliquid qui aliquid. Sequi ea ut et est quaerat sequi nihil ut aliquam. Occaecati alias dolorem mollitia ut. Similique ea voluptatem. Esse doloremque accusamus repellendus deleniti vel.</p>
               <a href="#about" className="btn-get-started scrollto">Read More</a>
             </div>
