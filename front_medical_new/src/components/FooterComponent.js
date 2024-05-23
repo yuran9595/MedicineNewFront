@@ -64,10 +64,10 @@ export default function FooterComponent() {
 
     <div class="container">
       <div class="copyright">
-        &copy; Copyright <strong><span>Medicio</span></strong>. All Rights Reserved
+        &copy; Copyright <strong><span>Yury</span></strong>. All Rights Reserved
       </div>
       <div class="credits">
-        Designed by <a href="https://bootstrapmade.com/">BootstrapMade</a>
+        Designed by <a href="https://github.com/yuran9595">Yury</a>
       </div>
     </div>
   </footer>

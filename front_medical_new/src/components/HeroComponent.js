@@ -12,7 +12,7 @@ export default function HeroComponent() {
 
           <Carousel.Item style={{backgroundImage:`url(${slide1})`}} >
             <div className="container">
-              <h2>Welcome to <span>Medicio</span></h2>
+              <h2>ЖЕНЬКЛАВКА ЖЕНЬКАКАВКА <span>Medicio</span></h2>
               <p>Ut velit est quam dolor ad a aliquid qui aliquid. Sequi ea ut et est quaerat sequi nihil ut aliquam. Occaecati alias dolorem mollitia ut. Similique ea voluptatem. Esse doloremque accusamus repellendus deleniti vel.</p>
               <a href="#about" className="btn-get-started scrollto">Read More</a>
             </div>
@@ -20,7 +20,7 @@ export default function HeroComponent() {
 
           <Carousel.Item style={{backgroundImage:`url(${slide2})`}}>
             <div className="container">
-              <h2>Test change testtt</h2>
+              <h2>ЖЕНЬКЛАВКА ЖЕНЬКАКАВКА</h2>
               <p>Test new changes. Sequi ea ut et est quaerat sequi nihil ut aliquam. Occaecati alias dolorem mollitia ut. Similique ea voluptatem. Esse doloremque accusamus repellendus deleniti vel.</p>
               <a href="#about" className="btn-get-started scrollto">Read More</a>
             </div>
@@ -28,7 +28,7 @@ export default function HeroComponent() {
 
           <Carousel.Item style={{backgroundImage:`url(${slide3})`}}>
             <div className="container">
-              <h2>Sequi ea ut et est quaerat</h2>
+              <h2>ЖЕНЬКЛАВКА ЖЕНЬКАКАВКА</h2>
               <p>Ut velit est quam dolor ad a aliquid qui aliquid. Sequi ea ut et est quaerat sequi nihil ut aliquam. Occaecati alias dolorem mollitia ut. Similique ea voluptatem. Esse doloremque accusamus repellendus deleniti vel.</p>
               <a href="#about" className="btn-get-started scrollto">Read More</a>
             </div>
